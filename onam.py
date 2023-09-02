@@ -1,7 +1,7 @@
 import requests
 
-# A program to translate into all languages 
-# Education use  
+# A program to translate into all languages
+# Education use
 # Thank you Google Translate
 
 url = "https://translate.google.co.in/_/TranslateWebserverUi/data/batchexecute"
